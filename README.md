@@ -10,6 +10,14 @@
 
 
 
+107-10
+
+https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=201812060001&dtable=News
+
+107-09
+
+https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=201811010005&dtable=News
+
 107-08
 
 https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=201810020008&dtable=News
