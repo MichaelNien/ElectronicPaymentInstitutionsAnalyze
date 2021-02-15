@@ -10,6 +10,14 @@
 
 
 
+108-03
+
+https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=201904300003&dtable=News
+
+108-02
+
+https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=201903280003&dtable=News
+
 108-01
 
 https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=201903070002&dtable=News
