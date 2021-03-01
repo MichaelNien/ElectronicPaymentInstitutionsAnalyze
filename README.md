@@ -26,6 +26,8 @@ https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_vie
 
 109-09
 
+(儲值+收款)餘額
+
 https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202011100002&dtable=News
 
 109-08
