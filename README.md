@@ -14,6 +14,8 @@ https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
 110-01
 
+https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202103110001&dtable=News
+
 109-12
 
 https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202102040003&dtable=News
