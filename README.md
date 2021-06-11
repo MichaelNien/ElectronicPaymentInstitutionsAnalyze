@@ -16,6 +16,10 @@ https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multim
 
 
 
+110-04
+
+https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202106100005&dtable=News
+
 110-03
 
 https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202105060001&dtable=News
