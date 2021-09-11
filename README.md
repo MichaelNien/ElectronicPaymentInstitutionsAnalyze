@@ -18,6 +18,10 @@ https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multim
 
 110-07
 
+「使用者人數」改名「電子支付帳戶使用者人數」
+
+「當月電子支付帳戶間款項移轉金額」改名「當月辦理國內外小額匯兌金額」
+
 https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202109090004&dtable=News
 
 110-06
