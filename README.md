@@ -16,6 +16,10 @@ https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multim
 
 
 
+110-08
+
+https://www.banking.gov.tw/ch/home.jsp?id=169&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202110070003&dtable=News
+
 110-07
 
 「使用者人數」改名「電子支付帳戶使用者人數」
