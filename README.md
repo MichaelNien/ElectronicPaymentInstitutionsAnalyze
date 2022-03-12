@@ -4,7 +4,7 @@ Google Data Studio
 
 線上分析報表
 
-<a href="https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f" target="_blank">https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f</a>
+https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
 ## 資料來源
 
@@ -12,6 +12,8 @@ Google Data Studio
 
 資料清單
 
-<a href="https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multimessage_view.jsp&dataserno=201805300001&dtable=Disclosure" target="_blank">https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multimessage_view.jsp&dataserno=201805300001&dtable=Disclosure</a>
+https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multimessage_view.jsp&dataserno=201805300001&dtable=Disclosure
+
+
 
 [資料公告來源](./doc/DataSource.md)
