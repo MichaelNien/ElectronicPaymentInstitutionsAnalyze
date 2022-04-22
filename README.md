@@ -30,7 +30,7 @@ https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
 - 109-09
 
-  新增(儲值+收款)餘額 欄位
+  新增「儲值餘額」「代收代付餘額」欄位
 
 - 110-07
 
