@@ -1,6 +1,6 @@
 # 電子支付機構
 
-Google Data Studio
+Google Looker Studio
 
 線上分析報表
 
