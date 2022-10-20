@@ -6,7 +6,7 @@ Google Looker Studio
 
 https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
-Github 2022/2/15 支援 [Mermaid](https://mermaid-js.github.io/)
+Github 2022/02/15 支援 [Mermaid](https://mermaid-js.github.io/) 功能
 
 ## 報表
 
