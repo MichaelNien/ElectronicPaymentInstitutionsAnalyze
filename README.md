@@ -4,9 +4,9 @@ Google Looker Studio
 
 線上分析報表
 
-https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
+最新資料日期：111年11月
 
-GitHub 2022/02/15 支援 [Mermaid](https://mermaid-js.github.io/) 功能
+https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
 ## 報表
 
