@@ -6,7 +6,7 @@ Google Looker Studio
 
 最新資料日期：民國112年02月
 
-https://datastudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
+https://lookerstudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
 ## 報表
 
