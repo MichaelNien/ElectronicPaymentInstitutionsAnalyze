@@ -52,8 +52,4 @@ https://lookerstudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
   存款餘額出現負數，銀行代碼「103」
 
-
-
-
-
-[DataLink_10704]: <https://www.banking.gov.tw/ch/home.jsp?id=540&amp;parentpath=0,524,539&amp;mcustomize=news_view.jsp&amp;dataserno=201806050005&amp;dtable=News>  "10704_201806050005"
+[DataLink_10704]: <https://www.banking.gov.tw/ch/home.jsp?id=540&amp;parentpath=0,524,539&amp;mcustomize=news_view.jsp&amp;dataserno=201806050005&amp;dtable=News>  "金管會 銀行局 10704 201806050005"
