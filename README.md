@@ -61,3 +61,7 @@ https://lookerstudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 - [112-05](./docs/report/11205.md)
 
   存款餘額出現負數，銀行代碼「103」
+  
+- [112-06](./docs/report/11205.md)
+
+  存款餘額出現負數，銀行代碼「103」
