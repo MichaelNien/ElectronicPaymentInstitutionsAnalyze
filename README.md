@@ -4,7 +4,7 @@ Google Looker Studio
 
 線上分析報表
 
-最新資料日期：民國112年05月
+最新資料日期：民國112年06月
 
 https://lookerstudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
