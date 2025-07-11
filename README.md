@@ -70,4 +70,6 @@ https://lookerstudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 
 ## 觀察
 
-2025/07/11 [街口支付爆發逃難潮！momo、PChome這些平台都關閉停用了](https://3c.ltn.com.tw/news/62487)
+2025/07/11 
+
+[街口支付爆發逃難潮！momo、PChome這些平台都關閉停用了](https://3c.ltn.com.tw/news/62487)
