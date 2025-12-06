@@ -77,3 +77,7 @@ https://lookerstudio.google.com/reporting/d8e708bb-3fe0-4a4f-b1bf-4fe088c43e7f
 > [!IMPORTANT]
 >
 > 支付款項餘額 114-06 4,309,071 - 114-07 2,753,324 = 減少 1,555,747
+
+2025/12/3
+
+LINE Pay Money 15:00 上線
